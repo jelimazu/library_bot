@@ -3,7 +3,7 @@
 # Телеграм бот для управления книгами в библиотеке. 
 
 Telegram Framework: [Aiogram V3](https://github.com/aiogram)   
-Database: [aiosqlite]([https://www.sqlite.org](https://github.com/omnilib/aiosqlite))
+Database: [aiosqlite]((https://www.sqlite.org](https://github.com/omnilib/aiosqlite))
 
 ## Установка и запуск
 
