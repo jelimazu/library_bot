@@ -8,7 +8,7 @@ Database: [aiosqlite]([https://www.sqlite.org](https://github.com/omnilib/aiosql
 ## Установка и запуск
 
 1. Установите python версии 3.10
-2. Скачайте этого бота `git clone https://github.com/jelimazu/library_bot` или `<> Code -> Download ZIP`.
+2. Скачайте этого бота `git clone https://github.com/jelimazu/library_bot` или `<> Code => Download ZIP`.
 3. Установите модули `python -m pip install -r requirements.txt`.
 4. Настройка файла `settings.ini`.
     * Указываем в `token` токен бота, который можно получить здесь => [@BotFather](https://t.me/BOTFATHER)
